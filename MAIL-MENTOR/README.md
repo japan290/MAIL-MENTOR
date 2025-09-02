@@ -27,8 +27,8 @@ Make sure you have the following installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://gitlab.nitsantech.com/nitsan/ai/mail-mentor.git
-cd mail-mentor
+git clone https://github.com/japan290/MAIL-MENTOR.git
+cd MAIL-MENTOR
 ```
 
 ### 3. Set up Google API Credentials
